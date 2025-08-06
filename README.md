@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 " />
 
-##### Social
-![https://www.instagram.com/valz.codes?igsh=bHVoZWN0YXdrbnk3](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 ![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0aXNscXR3ZzRjNzAwZ3BtOGpmOG1ndzJrd2t3aDF4M2lhdDlkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+##### My Github Stats
+[![Vaalz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaalz)](https://github.com/Vaalz/github-readme-stats&show_icons=true&theme=radical)

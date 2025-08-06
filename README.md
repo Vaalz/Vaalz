@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 
 ##### My Github Stats
-[![Vaalz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaalz)](https://github.com/Vaalz/github-readme-stats&show_icons=true&theme=radical)
+[![Vaalz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaalz&show_icons=true&theme=radical)](https://github.com/Vaalz/github-readme-stats)

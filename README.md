@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Vaalz 👋
 
 <!--
 **Vaalz/Vaalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Oemah Solution Indonesia**
+- 🌱 I’m currently learning [**React JS**](https://react.dev/)
+
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0aXNscXR3ZzRjNzAwZ3BtOGpmOG1ndzJrd2t3aDF4M2lhdDlkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
